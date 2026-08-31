@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Umesh770/DSA-Question/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Umesh770/DSA-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Umesh770/DSA-Question/tree/master/0200-number-of-islands) |
+| [0643-maximum-average-subarray-i](https://github.com/Umesh770/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Umesh770/DSA-Question/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Umesh770/DSA-Question/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Umesh770/DSA-Question/tree/master/1971-find-if-path-exists-in-graph) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Umesh770/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
