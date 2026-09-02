@@ -3,48 +3,41 @@ import java.util.*;
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
 
-        List<List<Integer>> graph = new ArrayList<>();
+       ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
-            graph.add(new ArrayList<>());
+            adj.add(new ArrayList<>());
         }
 
-       
         for (int[] edge : edges) {
-
             int u = edge[0];
             int v = edge[1];
 
-            graph.get(u).add(v);
-            graph.get(v).add(u);
+            adj.get(u).add(v);
+            adj.get(v).add(u);
         }
 
-        boolean[] visited = new boolean[n];
 
-        return dfs(source, destination, graph, visited);
-    }
-
-    static boolean dfs(
-        int node,
-        int destination,
-        List<List<Integer>> graph,
-        boolean[] visited
-    ) {
-        if (node == destination) {
+      boolean[] visited=new boolean[n];
+      Queue<Integer> q=new LinkedList<>();
+      q.add(source);
+      visited[source]=true;
+      while(!q.isEmpty()){
+        int u=q.poll();
+        if(u==destination){
             return true;
         }
-        visited[node] = true;
-
-        for (int neighbour : graph.get(node)) {
-
-            if (!visited[neighbour]) {
-
-                if (dfs(neighbour, destination, graph, visited)) {
-                    return true;
-                }
+        for(int v:adj.get(u)){
+            if(visited[v]==false){
+                visited[v]=true;
+                q.add(v);
             }
         }
-
-        return false;
+        
+      }
+    
+return false;
+       
+     
     }
 }
