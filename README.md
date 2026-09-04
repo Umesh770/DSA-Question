@@ -173,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Umesh770/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Umesh770/DSA-Question/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Umesh770/DSA-Question/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
