@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umesh770/DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Umesh770/DSA-Question/tree/master/0049-group-anagrams) |
+| [0796-rotate-string](https://github.com/Umesh770/DSA-Question/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Umesh770/DSA-Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Umesh770/DSA-Question/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Umesh770/DSA-Question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Umesh770/DSA-Question/tree/master/0061-rotate-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Umesh770/DSA-Question/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
