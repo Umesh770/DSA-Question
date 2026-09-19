@@ -1,41 +1,35 @@
-import java.util.*;
-
 class Solution {
     public long maximumSubarraySum(int[] nums, int k) {
-
-        long sum = 0;
-        long max = 0;
-
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        for (int i = 0; i < k; i++) {
-            sum += nums[i];
-            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
+        HashMap<Integer,Integer> map=new HashMap<>();
+        long sum=0;
+        for(int i=0;i<k;i++){
+            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+            if(map.get(nums[i])==1){
+                sum+=nums[i];
+            }
+           
         }
-
-        if (map.size() == k) {
-            max = sum;
+        long max=0;
+        if(map.size()==k){
+            max=sum;
         }
-
-        for (int i = k; i < nums.length; i++) {
-
-            sum += nums[i];
-            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
-
-            int old = nums[i - k];
-            sum -= old;
-
-            map.put(old, map.get(old) - 1);
-
-            if (map.get(old) == 0) {
+        for(int r=k;r<nums.length;r++){
+            int curr=nums[r];
+            map.put(curr,map.getOrDefault(curr,0)+1);
+            if(map.get(curr)==1){
+                sum+=curr;
+            }
+           
+            int old=nums[r-k];
+            map.put(old,map.get(old)-1);
+            if(map.get(old)==0){
                 map.remove(old);
+                sum-=old;
             }
-
-            if (map.size() == k) {
-                max = Math.max(max, sum);
-            }
+           if(map.size()==k){
+             max=Math.max(max,sum);
+           }
         }
-
         return max;
     }
 }
