@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umesh770/DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Umesh770/DSA-Question/tree/master/0049-group-anagrams) |
+| [0187-repeated-dna-sequences](https://github.com/Umesh770/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0796-rotate-string](https://github.com/Umesh770/DSA-Question/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Umesh770/DSA-Question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Umesh770/DSA-Question/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umesh770/DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Umesh770/DSA-Question/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/Umesh770/DSA-Question/tree/master/0133-clone-graph) |
+| [0187-repeated-dna-sequences](https://github.com/Umesh770/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0560-subarray-sum-equals-k](https://github.com/Umesh770/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Umesh770/DSA-Question/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/Umesh770/DSA-Question/tree/master/1695-maximum-erasure-value) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umesh770/DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Umesh770/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Umesh770/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Umesh770/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Umesh770/DSA-Question/tree/master/0904-fruit-into-baskets) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Umesh770/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Umesh770/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
@@ -216,4 +220,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Umesh770/DSA-Question/tree/master/0796-rotate-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Umesh770/DSA-Question/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Umesh770/DSA-Question/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Umesh770/DSA-Question/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Umesh770/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
