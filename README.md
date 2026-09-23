@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Umesh770/DSA-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Umesh770/DSA-Question/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Umesh770/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Umesh770/DSA-Question/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/Umesh770/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Umesh770/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Umesh770/DSA-Question/tree/master/0904-fruit-into-baskets) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umesh770/DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Umesh770/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Umesh770/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Umesh770/DSA-Question/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Umesh770/DSA-Question/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Umesh770/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Umesh770/DSA-Question/tree/master/0904-fruit-into-baskets) |
@@ -240,4 +242,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Umesh770/DSA-Question/tree/master/0187-repeated-dna-sequences) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Umesh770/DSA-Question/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Umesh770/DSA-Question/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Umesh770/DSA-Question/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Umesh770/DSA-Question/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
