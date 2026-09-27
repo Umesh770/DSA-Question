@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Umesh770/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/Umesh770/DSA-Question/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Umesh770/DSA-Question/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Umesh770/DSA-Question/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umesh770/DSA-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Umesh770/DSA-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Umesh770/DSA-Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Umesh770/DSA-Question/tree/master/0049-group-anagrams) |
+| [0905-sort-array-by-parity](https://github.com/Umesh770/DSA-Question/tree/master/0905-sort-array-by-parity) |
 ## Union-Find
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Umesh770/DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Umesh770/DSA-Question/tree/master/0061-rotate-list) |
 | [0567-permutation-in-string](https://github.com/Umesh770/DSA-Question/tree/master/0567-permutation-in-string) |
+| [0905-sort-array-by-parity](https://github.com/Umesh770/DSA-Question/tree/master/0905-sort-array-by-parity) |
 ## String Matching
 |  |
 | ------- |
