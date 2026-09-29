@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Umesh770/DSA-Question/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umesh770/DSA-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Umesh770/DSA-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Umesh770/DSA-Question/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Umesh770/DSA-Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1695-maximum-erasure-value](https://github.com/Umesh770/DSA-Question/tree/master/1695-maximum-erasure-value) |
 | [1991-find-the-middle-index-in-array](https://github.com/Umesh770/DSA-Question/tree/master/1991-find-the-middle-index-in-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Umesh770/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Umesh770/DSA-Question/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Umesh770/DSA-Question/tree/master/0904-fruit-into-baskets) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Umesh770/DSA-Question/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/Umesh770/DSA-Question/tree/master/1695-maximum-erasure-value) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Umesh770/DSA-Question/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Umesh770/DSA-Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Umesh770/DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Umesh770/DSA-Question/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
