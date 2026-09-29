@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Umesh770/DSA-Question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Umesh770/DSA-Question/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Umesh770/DSA-Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Umesh770/DSA-Question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1695-maximum-erasure-value](https://github.com/Umesh770/DSA-Question/tree/master/1695-maximum-erasure-value) |
 | [1991-find-the-middle-index-in-array](https://github.com/Umesh770/DSA-Question/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Umesh770/DSA-Question/tree/master/2270-number-of-ways-to-split-array) |
