@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Umesh770/DSA-Question/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Umesh770/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Umesh770/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
+| [0860-lemonade-change](https://github.com/Umesh770/DSA-Question/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Umesh770/DSA-Question/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Umesh770/DSA-Question/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Umesh770/DSA-Question/tree/master/0905-sort-array-by-parity) |
@@ -326,5 +327,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Umesh770/DSA-Question/tree/master/0435-non-overlapping-intervals) |
+| [0860-lemonade-change](https://github.com/Umesh770/DSA-Question/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Umesh770/DSA-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
