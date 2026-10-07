@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Umesh770/DSA-Question/tree/master/1695-maximum-erasure-value) |
 | [1991-find-the-middle-index-in-array](https://github.com/Umesh770/DSA-Question/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Umesh770/DSA-Question/tree/master/2270-number-of-ways-to-split-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Umesh770/DSA-Question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Umesh770/DSA-Question/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Umesh770/DSA-Question/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Umesh770/DSA-Question/tree/master/3875-construct-uniform-parity-array-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Umesh770/DSA-Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Umesh770/DSA-Question/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Umesh770/DSA-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Umesh770/DSA-Question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Union-Find
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Umesh770/DSA-Question/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/Umesh770/DSA-Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Umesh770/DSA-Question/tree/master/0922-sort-array-by-parity-ii) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Umesh770/DSA-Question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String Matching
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Umesh770/DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/Umesh770/DSA-Question/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Umesh770/DSA-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Umesh770/DSA-Question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
