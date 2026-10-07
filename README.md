@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Umesh770/DSA-Question/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Umesh770/DSA-Question/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Umesh770/DSA-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/Umesh770/DSA-Question/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Umesh770/DSA-Question/tree/master/0189-rotate-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Umesh770/DSA-Question/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Umesh770/DSA-Question/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Umesh770/DSA-Question/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Umesh770/DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Umesh770/DSA-Question/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Umesh770/DSA-Question/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Umesh770/DSA-Question/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Umesh770/DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
