@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Umesh770/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Umesh770/DSA-Question/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Umesh770/DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
+| [0724-find-pivot-index](https://github.com/Umesh770/DSA-Question/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/Umesh770/DSA-Question/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Umesh770/DSA-Question/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Umesh770/DSA-Question/tree/master/0904-fruit-into-baskets) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Umesh770/DSA-Question/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Umesh770/DSA-Question/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Umesh770/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Umesh770/DSA-Question/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umesh770/DSA-Question/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Umesh770/DSA-Question/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/Umesh770/DSA-Question/tree/master/1991-find-the-middle-index-in-array) |
