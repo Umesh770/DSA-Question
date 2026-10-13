@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Umesh770/DSA-Question/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Umesh770/DSA-Question/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Umesh770/DSA-Question/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Umesh770/DSA-Question/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Umesh770/DSA-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Umesh770/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Umesh770/DSA-Question/tree/master/0134-gas-station) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Umesh770/DSA-Question/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Umesh770/DSA-Question/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Umesh770/DSA-Question/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Umesh770/DSA-Question/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Umesh770/DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
@@ -362,5 +364,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Umesh770/DSA-Question/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Umesh770/DSA-Question/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
