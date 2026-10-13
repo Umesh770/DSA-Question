@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Umesh770/DSA-Question/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Umesh770/DSA-Question/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Umesh770/DSA-Question/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Umesh770/DSA-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Umesh770/DSA-Question/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Umesh770/DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Umesh770/DSA-Question/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/Umesh770/DSA-Question/tree/master/0189-rotate-array) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Umesh770/DSA-Question/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Umesh770/DSA-Question/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Umesh770/DSA-Question/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Umesh770/DSA-Question/tree/master/0435-non-overlapping-intervals) |
