@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Umesh770/DSA-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1695-maximum-erasure-value](https://github.com/Umesh770/DSA-Question/tree/master/1695-maximum-erasure-value) |
 | [1991-find-the-middle-index-in-array](https://github.com/Umesh770/DSA-Question/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Umesh770/DSA-Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Umesh770/DSA-Question/tree/master/2270-number-of-ways-to-split-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Umesh770/DSA-Question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Umesh770/DSA-Question/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Umesh770/DSA-Question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0875-koko-eating-bananas](https://github.com/Umesh770/DSA-Question/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umesh770/DSA-Question/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Umesh770/DSA-Question/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Umesh770/DSA-Question/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Umesh770/DSA-Question/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Umesh770/DSA-Question/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Umesh770/DSA-Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Umesh770/DSA-Question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Union-Find
 |  |
