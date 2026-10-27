@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Umesh770/DSA-Question/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Umesh770/DSA-Question/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Umesh770/DSA-Question/tree/master/0056-merge-intervals) |
+| [0090-subsets-ii](https://github.com/Umesh770/DSA-Question/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Umesh770/DSA-Question/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Umesh770/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Umesh770/DSA-Question/tree/master/0134-gas-station) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Umesh770/DSA-Question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Umesh770/DSA-Question/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Umesh770/DSA-Question/tree/master/0077-combinations) |
+| [0090-subsets-ii](https://github.com/Umesh770/DSA-Question/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Umesh770/DSA-Question/tree/master/0113-path-sum-ii) |
 ## Hash Table
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Umesh770/DSA-Question/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Umesh770/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Umesh770/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
