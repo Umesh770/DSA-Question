@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Umesh770/DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Umesh770/DSA-Question/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Umesh770/DSA-Question/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/Umesh770/DSA-Question/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/Umesh770/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/Umesh770/DSA-Question/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Umesh770/DSA-Question/tree/master/0796-rotate-string) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Umesh770/DSA-Question/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Umesh770/DSA-Question/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Umesh770/DSA-Question/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Umesh770/DSA-Question/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
 | ------- |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Umesh770/DSA-Question/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Umesh770/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Umesh770/DSA-Question/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Umesh770/DSA-Question/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Umesh770/DSA-Question/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Umesh770/DSA-Question/tree/master/0509-fibonacci-number) |
