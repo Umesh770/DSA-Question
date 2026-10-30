@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Umesh770/DSA-Question/tree/master/1695-maximum-erasure-value) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Umesh770/DSA-Question/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1991-find-the-middle-index-in-array](https://github.com/Umesh770/DSA-Question/tree/master/1991-find-the-middle-index-in-array) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Umesh770/DSA-Question/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Umesh770/DSA-Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Umesh770/DSA-Question/tree/master/2270-number-of-ways-to-split-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Umesh770/DSA-Question/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Umesh770/DSA-Question/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Umesh770/DSA-Question/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Umesh770/DSA-Question/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Umesh770/DSA-Question/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Umesh770/DSA-Question/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Umesh770/DSA-Question/tree/master/0222-count-complete-tree-nodes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Umesh770/DSA-Question/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Umesh770/DSA-Question/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -412,4 +415,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Umesh770/DSA-Question/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Umesh770/DSA-Question/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
