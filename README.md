@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umesh770/DSA-Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Umesh770/DSA-Question/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Umesh770/DSA-Question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Umesh770/DSA-Question/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Umesh770/DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Umesh770/DSA-Question/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Umesh770/DSA-Question/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Umesh770/DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Umesh770/DSA-Question/tree/master/0061-rotate-list) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Umesh770/DSA-Question/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Umesh770/DSA-Question/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Umesh770/DSA-Question/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Umesh770/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -416,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Umesh770/DSA-Question/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Umesh770/DSA-Question/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Umesh770/DSA-Question/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
