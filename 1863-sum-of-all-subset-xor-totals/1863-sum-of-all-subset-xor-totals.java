@@ -1,22 +1,17 @@
 class Solution {
-    
     public int subsetXORSum(int[] nums) {
         
-        return backtrack(nums,0,0);
-        
+        int count=backtrack(nums,0,0);
+        return count;
     }
-    public int backtrack(int[] nums,int index,int xor){
+    public int  backtrack(int[] nums,int index,int sum){
 
         if(index==nums.length){
-           
-            return xor;
+            return sum;
         }
-        
-       int pick= backtrack(nums,index+1,xor^nums[index]);
+        int pick=backtrack(nums,index+1,sum^nums[index]);
+        int notpick=backtrack(nums,index+1,sum);
 
-       int notpick=backtrack(nums,index+1,xor);
-
-       return pick+notpick;
-       
+        return pick+notpick;
     }
 }
