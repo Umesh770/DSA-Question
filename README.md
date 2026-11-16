@@ -433,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Umesh770/DSA-Question/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Umesh770/DSA-Question/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
