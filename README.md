@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Umesh770/DSA-Question/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/Umesh770/DSA-Question/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Umesh770/DSA-Question/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Umesh770/DSA-Question/tree/master/1683-invalid-tweets) |
