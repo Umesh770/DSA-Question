@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Umesh770/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Umesh770/DSA-Question/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Umesh770/DSA-Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Umesh770/DSA-Question/tree/master/0509-fibonacci-number) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Umesh770/DSA-Question/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Umesh770/DSA-Question/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Umesh770/DSA-Question/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Umesh770/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Umesh770/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Umesh770/DSA-Question/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Umesh770/DSA-Question/tree/master/0152-maximum-product-subarray) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Umesh770/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Umesh770/DSA-Question/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
