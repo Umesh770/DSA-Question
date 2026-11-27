@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Umesh770/DSA-Question/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Umesh770/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Umesh770/DSA-Question/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Umesh770/DSA-Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Umesh770/DSA-Question/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Umesh770/DSA-Question/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Umesh770/DSA-Question/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Umesh770/DSA-Question/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Umesh770/DSA-Question/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Umesh770/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Umesh770/DSA-Question/tree/master/0131-palindrome-partitioning) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Umesh770/DSA-Question/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Umesh770/DSA-Question/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
