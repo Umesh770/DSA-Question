@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Umesh770/DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/Umesh770/DSA-Question/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Umesh770/DSA-Question/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/Umesh770/DSA-Question/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Umesh770/DSA-Question/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Umesh770/DSA-Question/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Umesh770/DSA-Question/tree/master/0904-fruit-into-baskets) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Umesh770/DSA-Question/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Umesh770/DSA-Question/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Umesh770/DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
+| [0746-min-cost-climbing-stairs](https://github.com/Umesh770/DSA-Question/tree/master/0746-min-cost-climbing-stairs) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
